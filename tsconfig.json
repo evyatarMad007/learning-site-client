@@ -1,16 +1,16 @@
 {
 	"compilerOptions": {
-		"paths": {
-			"@app/*": ["app/*"],
-			"@components/*": ["components/*"],
-			"@ts/*": ["ts/*"],
-			"@assets/*": ["assets/*"],
-			"@configs/*": ["configs/*"],
-			"@context/*": ["context/*"],
-			"@reports/*": ["context/reports/*"],
-			"@hooks/*": ["hooks/*"],
-			"@services/*": ["services/*"]
-		},
+		// "paths": {
+		// 	"@app/*": ["app/App.ts*"],
+		// 	"@components/*": ["components/*"],
+		// 	"@ts/*": ["ts/*"],
+		// 	"@assets/*": ["assets/*"],
+		// 	"@configs/*": ["configs/*"],
+		// 	"@context/*": ["context/*"],
+		// 	"@reports/*": ["context/reports/*"],
+		// 	"@hooks/*": ["hooks/*"],
+		// 	"@services/*": ["services/*"]
+		// },
 		"target": "es5",
 		"lib": ["dom", "dom.iterable", "esnext"],
 		"allowJs": true,
